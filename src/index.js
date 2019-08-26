@@ -9,6 +9,9 @@ ReactDOM.render(
     <div>
         <h1>Calculadora</h1>
         <Calculator />
+        <footer>
+            <h4>Copyright © 2019 | Fabinho Flauzino</h4>
+        </footer>
     </div>    
 , document.getElementById('root'));
 serviceWorker.unregister();

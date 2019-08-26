@@ -1,6 +1,6 @@
 .calculator {
     height: 320px;
-    width: 300px;
+    width: 275px;
     border-radius: 5px;
     overflow: hidden;
     background-color: linear-gradient(
@@ -12,4 +12,10 @@
     grid-template-columns: repeat(4, 25%);
     grid-template-rows: 1fr 48px 48px 48px 48px 48px;
 
+}
+
+footer{
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
 }
